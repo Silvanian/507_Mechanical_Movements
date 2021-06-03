@@ -5,3 +5,4 @@ My attempt to create all 507 movements from the aforementioned book. Designs are
 
 ### List of Completed Movements
 * 1 - Simple Pulley
+* 2 - Twisted Pulley
