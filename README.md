@@ -8,3 +8,4 @@ My attempt to create all 507 movements from the aforementioned book. Designs are
 * 2 - Twisted Pulley
 * 3 - Right Angle Pulley
 * 4 - Same Plane Right Angle Pulley
+* 5 - Simple Pulley with Tensioning Pulley
